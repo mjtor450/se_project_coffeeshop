@@ -1,76 +1,73 @@
-   .footer {
-    background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-    color: white;
-    padding: 60px 80px 0;
+.footer {
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+  color: white;
+  padding: 60px 80px 0;
 }
 
 .footer__row {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .footer__content {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .footer__heading {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .footer__logo {
-    width: 105px;
-    height: 39px;
+  width: 105px;
+  height: 39px;
 }
 
 .footer__social-heading {
-    margin: 0;
-    padding-bottom: 20px;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 20px;
+  margin: 0;
+  padding-bottom: 20px;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__social-link {
-    color: white;
-    text-decoration: none;
-    margin: 0;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 20px;
-    transition: color 0.3s ease;
+  color: white;
+  text-decoration: none;
+  margin: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  transition: color 0.3s ease;
 }
 
-
-
 .footer__social-link:hover {
-    color: #c1c1c1;
+  color: #c1c1c1;
 }
 
 .footer__list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .footer__list-item:not(:first-child) {
-    margin-top: 16px;
+  margin-top: 16px;
 }
 
-
 .footer__copyright {
-    margin: 0;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 20px;
-    padding-bottom: 60px;
-    padding-top: 108px;
+  margin: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  padding-bottom: 60px;
+  padding-top: 108px;
 }

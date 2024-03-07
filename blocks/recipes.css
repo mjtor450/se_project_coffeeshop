@@ -1,55 +1,55 @@
 .recipes {
-    padding: 100px 80px 215px;
-    background-color: #0a2750;
-    background-image: url(../images/background_recipes.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+  padding: 100px 80px 0;
+  background-color: #0a2750;
+  background-image: url(../images/background_recipes.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .recipes__title {
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 44px;
-    line-height: 52px;
-    color: white;
-    max-width: 580px;
-    margin: 100px auto 24px 80px;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  color: white;
+  max-width: 580px;
+  margin: 0 0 24px;
 }
 
 .recipes__subtitle {
-    font-family: "Noto Serif", Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
-    color: white;
-    margin: 0 0 80px 80px;
-    max-width: 438px;
+  font-family: "Noto Serif", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin: 0 0 80px;
+  max-width: 438px;
 }
 
 .recipes__videos {
-    display: flex;
-    gap: 40px;
-    justify-content: center;
+  display: flex;
+  gap: 40px;
+  justify-content: center;
 }
 
 .recipes__iframe {
-    width: 560px;
-    height: 315px;
-    border: none;
+  width: 560px;
+  height: 315px;
+  border: none;
 }
 
 .recipes__video-caption {
-    display: flex;
-    justify-content: space-between;
-    font-family: "Inter", Arial, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    color: white;
-    margin-bottom: 215px;
-    margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin-bottom: 215px;
+  margin-top: 0;
 }
